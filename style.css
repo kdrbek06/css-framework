@@ -1,0 +1,8 @@
+.parent1:hover > hr:not(:hover) {
+  color: white;
+}
+
+#tik:hover {
+  background-color: #0066ff;
+  color: white;
+}
